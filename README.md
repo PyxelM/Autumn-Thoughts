@@ -1,5 +1,5 @@
 ## Autumn Thoughts
-Autumn Thoughts is an Obsidian theme created by Mylo / Ana Hodges. It's my first time creating one so be nice!
+Autumn Thoughts is an Obsidian theme created by Mylo Hodges. It's my first time creating one so be nice!
 
 ![Screenshot](autumn-thoughts-screenshot.png)
 
