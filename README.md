@@ -8,4 +8,4 @@ My design philosophy behind this theme is just to give my notes a more refined, 
 
 Furthermore, I wanted to give autumn thoughts a feeling of customisability, so the accent colour chosen in Obsidian also controls the overall colour of the theme.
 
-Copyright Mylo Hodges © 2024
+Copyright Anastasia Hodges © 2024-2026
